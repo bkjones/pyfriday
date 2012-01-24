@@ -1,0 +1,8 @@
+%YAML 1.2
+---
+
+Jobs:
+    collectors.LoadAverage:
+       interval: 60  # this job will run every 60 seconds.
+        
+    
